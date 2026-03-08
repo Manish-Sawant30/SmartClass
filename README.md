@@ -323,15 +323,6 @@ http://localhost:8080
 
 
 
-Example:
-
-Home Page
-Admin Dashboard
-Teacher Upload Notes
-Student Course Page
-MCQ Test Page
-Result Page
-Certificate Page
 
 ---
 

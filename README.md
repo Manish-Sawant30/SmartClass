@@ -287,38 +287,60 @@ http://localhost:8080
 ---
 
 # 📸 Screenshots
+• Homepage
 <img width="1340" height="616" alt="image" src="https://github.com/user-attachments/assets/b0ee2c4c-66f8-4aca-a5a4-0839ea07d756" />
 <img width="1357" height="616" alt="Screenshot 2026-03-08 143218" src="https://github.com/user-attachments/assets/abe0d5a0-548f-4614-9ac3-ac349babe045" />
+
+• LoginPage
 <img width="1095" height="567" alt="image" src="https://github.com/user-attachments/assets/e68be943-7d83-480b-95d9-5d9626e63032" />
 
 #AdminModule
+• AdminDashboard
 <img width="1352" height="596" alt="image" src="https://github.com/user-attachments/assets/191dd77e-1108-4c51-a6ab-33f839a7c28c" />
+• ParentDataManagementPage
 <img width="1223" height="601" alt="image" src="https://github.com/user-attachments/assets/1fd8c1e5-9bad-4354-965a-3e19793114ce" />
+• StudentDataManagementPage
 <img width="1187" height="596" alt="image" src="https://github.com/user-attachments/assets/9148348f-d070-4da5-af11-81248af822f6" />
+• TeacherDataManagementPage
 <img width="1212" height="593" alt="image" src="https://github.com/user-attachments/assets/b923d473-02c3-409a-9587-6acc701f1d63" />
+• NoticeCreationPage
 <img width="648" height="605" alt="image" src="https://github.com/user-attachments/assets/b86da34c-3029-4d74-90d8-920f00db5f5c" />
+• SuggestionByParentPage
 <img width="1317" height="464" alt="image" src="https://github.com/user-attachments/assets/f98414d2-2788-4816-bfe4-d99160dddecb" />
 
 
 #TeacherModule
+• TeacherDashboard
 <img width="1359" height="550" alt="image" src="https://github.com/user-attachments/assets/709831ac-9767-4666-9bfc-989fd3f21123" />
+• Notes,MCQ,Final Test,Video Upload Page
 <img width="971" height="553" alt="image" src="https://github.com/user-attachments/assets/5a3577b6-cf56-4708-b634-5b6b989aa9dd" />
 <img width="1042" height="543" alt="image" src="https://github.com/user-attachments/assets/ea2602ea-6779-4236-8829-9aaea2a7fa06" />
+• Student's Result Page 
 <img width="1321" height="632" alt="image" src="https://github.com/user-attachments/assets/bb6e8a28-5a08-4145-a3b8-30c7c19fcaf0" />
 
 
 #StudentModule
+• StudentDashboard
 <img width="1328" height="488" alt="image" src="https://github.com/user-attachments/assets/704b4f5b-9d44-4929-a24c-f60b1178967b" />
+• Notes,MCQ,Final Test,Video Page for Student
 <img width="1307" height="637" alt="image" src="https://github.com/user-attachments/assets/241a730a-2d8e-4317-8cd6-f7399c2b48d5" />
+• Student's Self Result Page
 <img width="1328" height="638" alt="image" src="https://github.com/user-attachments/assets/ae489956-f7ba-4b75-bee1-05e50cf442d6" />
+• CertiFicateVarificationPage
 <img width="592" height="557" alt="image" src="https://github.com/user-attachments/assets/4f0512f1-4c9d-410d-87ee-a06028592972" />
+• Certificate
 <img width="715" height="619" alt="image" src="https://github.com/user-attachments/assets/0656f3c5-56aa-4b5c-8ae1-2fa4468ea56e" />
 
 #ParentModule
+• ParentDashboard
 <img width="1338" height="649" alt="image" src="https://github.com/user-attachments/assets/8aec310b-b7a5-4f12-b177-e8fb3d72f590" />
+• ChildProgressRecordPage
 <img width="1329" height="612" alt="image" src="https://github.com/user-attachments/assets/6b65a775-eca8-415e-aba0-1530de82960a" />
+• NoticePageByAdmin
 <img width="1341" height="340" alt="image" src="https://github.com/user-attachments/assets/516c4443-de1c-4519-bc1d-afcf97c3bc61" />
+• SuggestionToAdminPage
 <img width="531" height="571" alt="image" src="https://github.com/user-attachments/assets/b57883d0-e135-4266-9d9a-21a4185d68a5" />
+• SuggestionDashboard
 <img width="1363" height="560" alt="image" src="https://github.com/user-attachments/assets/d2852a74-fc66-4307-a8ee-b69ed06204a8" />
 
 

@@ -292,11 +292,13 @@ http://localhost:8080
 <img width="1095" height="567" alt="image" src="https://github.com/user-attachments/assets/e68be943-7d83-480b-95d9-5d9626e63032" />
 
 #AdminModule
-<img width="1223" height="601" alt="image" src="https://github.com/user-attachments/assets/1fd8c1e5-9bad-4354-965a-3e19793114ce" />
-<img width="648" height="605" alt="image" src="https://github.com/user-attachments/assets/b86da34c-3029-4d74-90d8-920f00db5f5c" />
-<img width="1317" height="464" alt="image" src="https://github.com/user-attachments/assets/f98414d2-2788-4816-bfe4-d99160dddecb" />
 <img width="1352" height="596" alt="image" src="https://github.com/user-attachments/assets/191dd77e-1108-4c51-a6ab-33f839a7c28c" />
+<img width="1223" height="601" alt="image" src="https://github.com/user-attachments/assets/1fd8c1e5-9bad-4354-965a-3e19793114ce" />
+<img width="1317" height="464" alt="image" src="https://github.com/user-attachments/assets/f98414d2-2788-4816-bfe4-d99160dddecb" />
 <img width="1212" height="593" alt="image" src="https://github.com/user-attachments/assets/b923d473-02c3-409a-9587-6acc701f1d63" />
+<img width="648" height="605" alt="image" src="https://github.com/user-attachments/assets/b86da34c-3029-4d74-90d8-920f00db5f5c" />
+
+#TeacherModule
 <img width="1359" height="550" alt="image" src="https://github.com/user-attachments/assets/709831ac-9767-4666-9bfc-989fd3f21123" />
 <img width="971" height="553" alt="image" src="https://github.com/user-attachments/assets/5a3577b6-cf56-4708-b634-5b6b989aa9dd" />
 

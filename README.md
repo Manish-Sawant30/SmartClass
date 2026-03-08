@@ -289,10 +289,12 @@ http://localhost:8080
 # 📸 Screenshots
 <img width="1340" height="616" alt="image" src="https://github.com/user-attachments/assets/b0ee2c4c-66f8-4aca-a5a4-0839ea07d756" />
 <img width="1357" height="616" alt="Screenshot 2026-03-08 143218" src="https://github.com/user-attachments/assets/abe0d5a0-548f-4614-9ac3-ac349babe045" />
-<img width="648" height="605" alt="image" src="https://github.com/user-attachments/assets/b86da34c-3029-4d74-90d8-920f00db5f5c" />
-<img width="1223" height="601" alt="image" src="https://github.com/user-attachments/assets/1fd8c1e5-9bad-4354-965a-3e19793114ce" />
-<img width="1317" height="464" alt="image" src="https://github.com/user-attachments/assets/f98414d2-2788-4816-bfe4-d99160dddecb" />
 <img width="1095" height="567" alt="image" src="https://github.com/user-attachments/assets/e68be943-7d83-480b-95d9-5d9626e63032" />
+
+#AdminModule
+<img width="1223" height="601" alt="image" src="https://github.com/user-attachments/assets/1fd8c1e5-9bad-4354-965a-3e19793114ce" />
+<img width="648" height="605" alt="image" src="https://github.com/user-attachments/assets/b86da34c-3029-4d74-90d8-920f00db5f5c" />
+<img width="1317" height="464" alt="image" src="https://github.com/user-attachments/assets/f98414d2-2788-4816-bfe4-d99160dddecb" />
 <img width="1352" height="596" alt="image" src="https://github.com/user-attachments/assets/191dd77e-1108-4c51-a6ab-33f839a7c28c" />
 <img width="1212" height="593" alt="image" src="https://github.com/user-attachments/assets/b923d473-02c3-409a-9587-6acc701f1d63" />
 <img width="1359" height="550" alt="image" src="https://github.com/user-attachments/assets/709831ac-9767-4666-9bfc-989fd3f21123" />

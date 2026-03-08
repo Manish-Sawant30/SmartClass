@@ -248,7 +248,7 @@ Open project in:
 
 * Eclipse
 * IntelliJ
-* VS Code
+
 
 ---
 
@@ -265,7 +265,7 @@ Example:
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/smartclass
 spring.datasource.username=root
-spring.datasource.password=yourpassword
+spring.datasource.password=root
 ```
 
 ---
@@ -275,7 +275,7 @@ spring.datasource.password=yourpassword
 Run:
 
 ```
-InstituteApplication.java
+institute.java
 ```
 
 Open browser:
@@ -287,8 +287,8 @@ http://localhost:8080
 ---
 
 # 📸 Screenshots
+<img width="228" height="197" alt="image" src="https://github.com/user-attachments/assets/457d2242-3216-4cf3-a2df-336259672753" />
 
-(Add screenshots here)
 
 Example:
 
@@ -307,7 +307,7 @@ Certificate Page
 Manish Sawant
 
 Diploma in Computer Technology
-Java Full Stack Intern
+Java Full Stack Developer
 
 GitHub
 https://github.com/Manish-Sawant30

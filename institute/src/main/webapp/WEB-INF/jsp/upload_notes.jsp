@@ -798,9 +798,11 @@
         const currentTeacherName = '<%= teacherName %>';
         
         console.log('Teacher logged in:', currentTeacherName, 'DB ID:', currentTeacherId, 'Display ID:', currentTeacherDisplayId);
-        
-        const API_BASE = 'http://localhost:8086/content';
-        const MCQ_API = 'http://localhost:8086/api/mcq';
+
+const BASE_URL = window.location.origin;
+
+        const API_BASE = BASE_URL + '/content';
+       const MCQ_API = BASE_URL + '/api/mcq';
         let teacherSubjects = [];
         let questionCount = 1;
         let finalQuestionCount = 0;

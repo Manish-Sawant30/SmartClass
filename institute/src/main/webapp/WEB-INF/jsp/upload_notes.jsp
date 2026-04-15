@@ -478,28 +478,6 @@
             <span class="badge bg-primary ms-3">Status: <%= teacherStatus %></span>
         </div>
 
-        <div class="stats-container">
-            <div class="stat-card">
-                <div class="stat-icon"><i class="fas fa-file-pdf"></i></div>
-                <div class="stat-number" id="documentsCount">0</div>
-                <div class="stat-label">Documents Uploaded</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-icon"><i class="fas fa-video"></i></div>
-                <div class="stat-number" id="mediaCount">0</div>
-                <div class="stat-label">Video Links Added</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-icon"><i class="fas fa-question-circle"></i></div>
-                <div class="stat-number" id="mcqCount">0</div>
-                <div class="stat-label">MCQ Questions</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-icon"><i class="fas fa-users"></i></div>
-                <div class="stat-number" id="studentsCount">0</div>
-                <div class="stat-label">My Students</div>
-            </div>
-        </div>
 
         <div class="final-test-section">
             <div class="row align-items-center">
@@ -735,8 +713,8 @@
                         </div>
                         <div class="mb-3">
                             <label class="form-label">Passing Percentage *</label>
-                            <input type="number" class="form-control" id="passingPercentage" value="50" min="1" max="100" required>
-                        </div>
+							<input type="number" class="form-control" id="passingPercentage"
+							       value="50" min="50" max="50" required disabled>                        </div>
                         <hr>
                         <h6 class="text-danger mb-3">Add Questions for Final Test</h6>
                         <div id="finalQuestions"></div>
@@ -798,11 +776,9 @@
         const currentTeacherName = '<%= teacherName %>';
         
         console.log('Teacher logged in:', currentTeacherName, 'DB ID:', currentTeacherId, 'Display ID:', currentTeacherDisplayId);
-
-const BASE_URL = window.location.origin;
-
-        const API_BASE = BASE_URL + '/content';
-       const MCQ_API = BASE_URL + '/api/mcq';
+        
+        const API_BASE = 'http://localhost:8086/content';
+        const MCQ_API = 'http://localhost:8086/api/mcq';
         let teacherSubjects = [];
         let questionCount = 1;
         let finalQuestionCount = 0;

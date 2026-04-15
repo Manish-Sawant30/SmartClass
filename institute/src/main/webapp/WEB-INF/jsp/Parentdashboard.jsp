@@ -835,7 +835,7 @@
                 <div class="action-content">
                     <h3>Notice Board</h3>
                     <p>View all announcements and notices from the school. Stay updated with important information about your child.</p>
-                    <span class="action-badge">3 New Notices</span>
+                    <span class="action-badge">Open Notice</span>
                 </div>
             </a>
 
